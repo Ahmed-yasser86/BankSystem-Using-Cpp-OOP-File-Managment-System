@@ -7,7 +7,8 @@ A feature-rich **C++ console application** for **banking system management**, de
 ### 🔹 User & Role Management  
 - Role-based system with **bank employees** (tellers, managers, admins) and **clients** (account holders).  
 - Secure **authentication system** using **bitwise operations and enums** for efficient access control.  
-
+- **Role-Based Access Control (RBAC)**
+  
 ### 🔹 Core Banking Operations  
 - **Account Management**: Create, update, and delete client records.  
 - **Transactions**: Deposit, withdraw, and transfer funds securely.  
